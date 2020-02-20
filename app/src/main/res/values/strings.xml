@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="add_btn">ADD</string>
+    <string name="sub_btn">SUB</string>
+    <string name="mul_btn">MUL</string>
+    <string name="div_btn">DIV</string>
+    <string name="result_text">Result:</string>
+    <string name="num1_text">A:</string>
+    <string name="num2_text">B:</string>
+    <string name="exp_text">%1$s %2$s %3$s</string>
+</resources>
